@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project, conducted at Peloton Interactive, integrated Quality Engineering claim and installation data with Product Safety incident data to develop an interactive Looker Studio dashboard. The dashboard aimed to proactively identify potential safety issues by comparing claim rates across both data sets. Additionally, it leveraged installation data to calculate claim rates for product safety, a capability that was previously unavailable.
+This project integrated Quality Engineering claim and installation data with Product Safety incident data to develop an interactive Looker Studio dashboard. The dashboard aimed to proactively identify potential safety issues by comparing claim rates across both data sets. Additionally, it leveraged installation data to calculate claim rates for product safety, a capability that was previously unavailable.
 
 ## Tools
 - Python (Pandas, SQLite3) for Data Analysis
